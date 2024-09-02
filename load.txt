@@ -1,0 +1,18 @@
+sign,Damaged or dirty sign
+
+road_oil,Road oil pollution
+
+Cave_entrance,Potential Landslide Area and Unreinforced Soil
+
+Damaged_Manhole,Damaged Manhole Cover
+
+Structural_Damage,Structural Damage and Cracked Concrete
+
+road_crack,road crack.Alligator Crack
+
+Road_damage,Road damage
+
+crack,crack
+
+Water_Stain,Water Stain .Moisture Patch
+
